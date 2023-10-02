@@ -23,22 +23,21 @@ Future lab - (BA workbench)
 
 
 #Melee: should have accessories that buff defense/survivability, reduced weapon range, still use bullets as ammo
-#Ranged: class should have accessories similar to vanilla, some accessories can give bullet other effects like fire/poison/high velocity/chlorophite at the cost of 10% tp 20% damage reduction respectively to how powerful the bullet type are
-#Magic: should have accessories that buff damage but increase mana consumption, and vice versa
-#Some Unique weapons will scale with game progression, add a boss check list to them. Upgradable weapons start with unnamed weapon, we can use boss loot that drop from progression or materials to upgrade the weapon (like night edge), ill give more detail on which weapon do this below:
-
-Yuuka - (Melee/ Upgradable: Logic -> Logic & Reason ) [After combining booth guns, they have double stats and shoot 2 bullets everytime]
+Yuuka - (Melee/ Upgradable: Logic -> Logic & Reason ) [After combining both guns, they have double stats and shoot 2 bullets everytime]
 Koyuki - (Melee/ scale)
 
-Yuuka - (Ranged/ Upgradable: Reason -> Logic & Reason) [After combining booth guns, they have double stats and shoot 2 bullets everytime]
+#Ranged: class should have accessories similar to vanilla, some accessories can give bullet other effects like fire/poison/high velocity/chlorophite at the cost of 10% tp 20% damage reduction respectively to how powerful the bullet type are
+Yuuka - (Ranged/ Upgradable: Reason -> Logic & Reason) [After combining both guns, they have double stats and shoot 2 bullets everytime]
 Noa - (Ranged/ scale)
 
+#Magic: should have accessories that buff damage but increase mana consumption, and vice versa
 Arisu - (Magic/ upgradable: Sword of Light -> Sword of Light: Supernova) - [unupgraded have smaller beam and less damage]
 
+
+#Some Unique weapons will scale with game progression, add a boss check list to them. Upgradable weapons start with unnamed weapon, we can use boss loot that drop from progression or materials to upgrade the weapon (like night edge), ill give more detail on which weapon do this below:
+
 Utaha - (sentry/ upgradable: Ikazuchi-chan MKII -> Ikazuchi-chan) - [Fast attack speed, low damage]
-
 Hare - (summon/ scale) - [Small drone that fire small explosive rocket, chlorophite effect, medium damage and attack speed]
-
 
 ***other accessories:
 All tier 1 upgrade items
