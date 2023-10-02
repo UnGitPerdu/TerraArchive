@@ -1,0 +1,104 @@
+Items: {
+	HoshinoGun: {
+		DisplayName: Hoshino Gun
+		Tooltip: ""
+	}
+
+	EyeOfHorus: {
+		DisplayName: Eye Of Horus
+		Tooltip: ""
+	}
+
+	SecretarysVote: {
+		DisplayName: Secretarys Vote
+		Tooltip: ""
+	}
+
+	Mulli: {
+		DisplayName: Mulli
+		Tooltip: ""
+	}
+
+	PlainBaseballCap: {
+		DisplayName: Plain Baseball Cap
+		Tooltip: ""
+	}
+
+	HaloYuuka: {
+		DisplayName: Halo Yuuka
+		Tooltip: ""
+	}
+
+	ScientificCalculator: {
+		DisplayName: Scientific Calculator
+		Tooltip: ""
+	}
+
+	HaloItem: {
+		DisplayName: Halo Item
+		Tooltip: ""
+	}
+
+	LogicAndReason: {
+		DisplayName: Logic And Reason
+		Tooltip: ""
+	}
+
+	Logic: {
+		DisplayName: Logic
+		Tooltip: ""
+	}
+
+	Reason: {
+		DisplayName: Reason
+		Tooltip: ""
+	}
+}
+
+NPCs: {
+	Yuuka: {
+		DisplayName: Yuuka
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LoveBiome: I love {BiomeName}.
+			LikeBiome: I like {BiomeName}.
+			DislikeBiome: I dislike {BiomeName}.
+			LoveNPC: I love {NPCName}.
+			LikeNPC: I like {NPCName}.
+			DislikeNPC: I dislike {NPCName}.
+			HateNPC: I hate {NPCName}.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+
+	Himari: {
+		DisplayName: Himari
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LoveBiome: I love {BiomeName}.
+			LikeBiome: I like {BiomeName}.
+			DislikeBiome: I dislike {BiomeName}.
+			LoveNPC: I love {NPCName}.
+			LikeNPC: I like {NPCName}.
+			DislikeNPC: I dislike {NPCName}.
+			HateNPC: I hate {NPCName}.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+}
+
+Projectiles.SparklingBall.DisplayName: Sparkling Ball
