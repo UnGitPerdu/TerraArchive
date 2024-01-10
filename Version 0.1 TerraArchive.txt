@@ -1,0 +1,47 @@
+*********WORK IN PROGRESS********
+VERSION 0.1
+
+
+Art : Einzeilhandery
+Coding : UnJoueurPerdu
+
+This is our first mod!
+Despite it's popularity, there are no Blue Archive mod yet, so we are making one ouselves.
+It is advised to not use vanity with other mods, as student's sprites are shorter and more skinny compare to vanilla
+
+Please wait for more update from the mod.
+
+!!!!!!!How to start mod:
+ Item: Shittim Chest ( 2 gels + 5 glass + + 10 red wires + 2 iron bars) = will summon the "Delinquent Trio" (Post Eye of Cthulu difficulty)
+after defeating the mini bosses will spawn Arona and Sora as town NPCs.
+
+Current To Do List :
+
+ ***NPCs:
+Arona:trade 1200 pyroxene for a treasure bag item that contain 5 loots, common student vanity part and weapons (those npc students in BA that we see during story mode)
+Sora: Sell BA material and buff shop for credit
+Yuuka: Sell Blue Archive boss summon items for credit
+
+***Furnitures:
+Future lab - (BA workbench)
+classroom table
+classroom chair
+
+
+***Weapon, equipment and vanity set:
+Vanity are sold by Arona, unique weapon and armors are obtained through fighting boss and receiving random drop
+Weapon will drop at Tier 1, can be upgraded using blu-ray and weapon parts
+ +Bluray drop by common BA mobs
+ +Weapon parts drop from Kaitens(next patch)
+Common equipments drop from common mobs, can be upgraded by ammassing different lower tier equipments
+
+
+***Hostile NPCs:
+Sukebans
+helmet gang
+
+
+
+***Boss:
+Sukeban Trio
+Handyman 68
