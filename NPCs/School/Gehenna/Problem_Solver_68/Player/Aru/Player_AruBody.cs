@@ -3,7 +3,7 @@ using Terraria.ID;
 using Terraria.Localization;
 using Terraria.ModLoader;
 
-namespace NPCs.School.Gehenna.Problem_Solver_68.Player.Aru
+namespace TerraArchive.NPCs.School.Gehenna.Problem_Solver_68.Player..Aru
 {
 	// The AutoloadEquip attribute automatically attaches an equip texture to this item.
 	// Providing the EquipType.Body value here will result in TML expecting X_Arms.png, X_Body.png and X_FemaleBody.png sprite-sheet files to be placed next to the item's main texture.
