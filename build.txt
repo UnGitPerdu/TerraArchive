@@ -1,3 +1,0 @@
-displayName = TerraArchive
-author = Einzeilhandery, UnJoueurPerdu
-version = 0.1
