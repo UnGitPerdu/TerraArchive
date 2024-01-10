@@ -1,7 +1,7 @@
 ﻿using Terraria;
 using Terraria.ID;
 using Terraria.Localization;
-using Terraria.ModLoader;
+using NPCs.School.Gehenna.Problem_Solver_68.Player.Aru;
 using testsensei.Aru;
 
 namespace NPCs.School.Gehenna.Problem_Solver_68.Player.Aru
