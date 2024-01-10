@@ -1,0 +1,13 @@
+Problem Solver Squad: 
+Spawn item name: Suspicious_Phone
+Obtain: from Yuuka (200 pyroxene)
+ -A club notable for the conduct of "illegal businesses" as well as taking "fixer contracts".
+
+ +Aru:(20 seconds cd) Spawn a cross hair entity at player that stay and explode after 2 seconds, does massive damage
+ +Haruka: No knockback, slow
+ +Kayoko:(25 seconds cd) Cast Darkness and Confused to player for 4 seconds
+ +Mutsigi:(30 seconds cd) Throw dynamites that split into smaller ones, spawn 1 land mine every 20 seconds, explode if player step on or after 15 seconds
+
+Drop: 
++ Gehenna_Sigil (Used to craft one Gehenna weapons)
++ Gehenna_Outfit_Voucher (get one of Gehenna boss outfit)
