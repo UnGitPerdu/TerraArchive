@@ -3,7 +3,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace testsensei.Aru
+namespace NPCs.School.Gehenna.Problem_Solver_68.Player.Aru
 {
 	public class Aru_Gun : ModItem
 	{
