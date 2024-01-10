@@ -3,7 +3,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace testsensei.Mutsugi
+namespace TerraArchive.NPCs.School.Gehenna.Problem_Solver_68.Player.Mutsugi
 {
 	public class Mutsugi_Gun : ModItem
 	{
