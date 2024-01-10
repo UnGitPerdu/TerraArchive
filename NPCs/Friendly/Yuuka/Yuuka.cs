@@ -19,6 +19,7 @@ using TerraArchive.Items.Weapons.EyeOfHorus;
 
 namespace TerraArchive.NPCs.Friendly.Yuuka
 {
+    [AutoloadHead]
     internal class Yuuka : ModNPC
     {
         public const string ShopName = "Shop";
@@ -92,7 +93,7 @@ namespace TerraArchive.NPCs.Friendly.Yuuka
             NPC.DeathSound = SoundID.NPCDeath1;
             NPC.knockBackResist = 0.5f;
 
-            AnimationType = NPCID.Guide;
+            AnimationType = NPCID.ArmsDealer;
 
         }
 

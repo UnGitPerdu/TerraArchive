@@ -17,6 +17,7 @@ using TerraArchive.Items.Weapons.EyeOfHorus;
 
 namespace TerraArchive.NPCs.Friendly.Himari
 {
+    [AutoloadHead]
     internal class Himari : ModNPC
     {
         public const string ShopName = "Shop";
