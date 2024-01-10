@@ -4,7 +4,7 @@ using Terraria.Localization;
 using Terraria.ModLoader;
 using testsensei.Mutsugi;
 
-namespace testsensei.Mutsugi
+namespace TerraArchive.NPCs.School.Gehenna.Problem_Solver_68.Player.Mutsugi
 {
 	// The AutoloadEquip attribute automatically attaches an equip texture to this item.
 	// Providing the EquipType.Head value here will result in TML expecting a X_Head.png file to be placed next to the item's main texture.
