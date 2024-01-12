@@ -35,7 +35,7 @@ Credit uncommon drop from common BA common enemy 20%
 Vanity are sold by Arona, unique weapon and armors are obtained through fighting boss and receiving random drop
 Weapon will drop at Tier 1, can be upgraded using blu-ray, Divine_Fragment and weapon parts
  + Bluray drop by common BA mobs
- + Weapon parts drop from Kaitens(next patch)
+ + Weapon_Parts drop from Kaitens(next patch)
  + Divine_Fragment can be dropped by BA boss student groups
 Common equipments drop from common mobs, can be upgraded by merging other equipments, stackable
 
