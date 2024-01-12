@@ -12,12 +12,13 @@ It is advised to not use vanity with other mods, as student's sprites are shorte
 Please wait for more update from the mod.
 
 !!!!!!!How to start mod:
- Item: Shittim Chest ( 2 gels + 5 glass + + 10 red wires + 2 iron bars) = will summon the "Delinquent Trio" (Post Eye of Cthulu difficulty)
-after defeating the mini bosses will spawn Arona and Sora as town NPCs.
+ Item: Student_Mail (Eye of Cthulu drop) = will summon the "Delinquent Trio"
+after defeating will spawn Arona and Sora as town NPCs.
 
-Current To Do List :
+Current content List :
 
  ***NPCs:
+Currently have no plan to make shimmer/party version of the students
 Arona:trade 1200 pyroxene for a treasure bag item that contain 5 loots, common student vanity part and weapons (those npc students in BA that we see during story mode)
 Sora: Sell BA material and buff shop for credit
 Yuuka: Sell Blue Archive boss summon items for credit
@@ -30,6 +31,7 @@ classroom chair
 
 ***Weapon, equipment and vanity set:
 Pyroxene rare drop from BA common enemy 2%
+Credit uncommon drop from common BA common enemy 20%
 Vanity are sold by Arona, unique weapon and armors are obtained through fighting boss and receiving random drop
 Weapon will drop at Tier 1, can be upgraded using blu-ray, Divine_Fragment and weapon parts
  + Bluray drop by common BA mobs
