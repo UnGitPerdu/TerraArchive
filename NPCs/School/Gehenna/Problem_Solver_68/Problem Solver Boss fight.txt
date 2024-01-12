@@ -10,4 +10,4 @@ Obtain: from Yuuka (200 pyroxene)
 
 Drop: 
 + Gehenna_Sigil (Used to craft one Gehenna weapons)
-+ Gehenna_Outfit_Voucher (get one of Gehenna boss outfit)
++ Gehenna_Outfit_Voucher (get one of Gehenna boss outfit).
