@@ -29,7 +29,7 @@ classroom table
 classroom chair
 
 
-***Weapon, equipment and vanity set:
+***Weapon, equipment and vanity set: (leave for after we got the boss to work)
 Pyroxene rare drop from BA common enemy 2%
 Credit uncommon drop from common BA common enemy 20%
 Vanity are sold by Arona, unique weapon and armors are obtained through fighting boss and receiving random drop
@@ -51,3 +51,5 @@ Robot PMC (Desert)
 ***Boss:
 Sukeban Trio
 Handyman 68
+
+Ill be continuing when we have update on the project
