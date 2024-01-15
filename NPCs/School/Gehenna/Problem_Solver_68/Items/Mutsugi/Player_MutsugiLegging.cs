@@ -3,12 +3,12 @@ using Terraria.ID;
 using Terraria.Localization;
 using Terraria.ModLoader;
 
-namespace TerraArchive.NPCs.School.Gehenna.Problem_Solver_68.Player.Kayoko
+namespace TerraArchive.NPCs.School.Gehenna.Problem_Solver_68.Items.Mutsugi
 {
 	// The AutoloadEquip attribute automatically attaches an equip texture to this item.
 	// Providing the EquipType.Legs value here will result in TML expecting a X_Legs.png file to be placed next to the item's main texture.
 	[AutoloadEquip(EquipType.Legs)]
-	public class Player_KayokoLegging : ModItem
+	public class Player_MutsugiLegging : ModItem
 	{
 		public static readonly int MoveSpeedBonus = 5;
 

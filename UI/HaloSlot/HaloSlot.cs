@@ -1,7 +1,5 @@
 ﻿using Microsoft.Xna.Framework;
-using TerraArchive.Items.Halos;
 using Terraria;
-using Terraria.ID;
 using Terraria.ModLoader;
 
 namespace TerraArchive.UI.HaloSlot
@@ -22,13 +20,13 @@ namespace TerraArchive.UI.HaloSlot
             return true;
         }
 
-        public override bool CanAcceptItem(Item checkItem, AccessorySlotType context)
-        {
-            if (checkItem.ModItem is HaloItem) // if subclass is HaloItem
-                return true;
+        //public override bool CanAcceptItem(Item checkItem, AccessorySlotType context)
+        //{
+        //    if (checkItem.ModItem is HaloItem) // if subclass is HaloItem
+        //        return true;
 
-            return false; // Otherwise nothing in slot
-        }
+        //    return false; // Otherwise nothing in slot
+        //}
 
         public override void OnMouseHover(AccessorySlotType context)
         {

@@ -1,12 +1,7 @@
-﻿using Microsoft.Xna.Framework;
-using System;
-using System.IO;
-using Terraria;
+﻿using Terraria;
 using Terraria.GameContent.Bestiary;
-using Terraria.GameContent.UI;
 using Terraria.ID;
 using Terraria.ModLoader;
-using Terraria.ModLoader.IO;
 using Terraria.ModLoader.Utilities;
 
 namespace TerraArchive.NPCs.Hostile.Sukeban.SR_Sukeban

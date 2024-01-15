@@ -3,23 +3,25 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace TerraArchive.NPCs.School.Gehenna.Problem_Solver_68.Player.Kayoko
+namespace TerraArchive.NPCs.School.Gehenna.Problem_Solver_68.Items.Mutsugi
 {
-	public class Kayoko_Gun : ModItem
+	public class Mutsugi_Gun : ModItem
 	{
 		public override void SetDefaults() {
 			// Modders can use Item.DefaultToRangedWeapon to quickly set many common properties, such as: useTime, useAnimation, useStyle, autoReuse, DamageType, shoot, shootSpeed, useAmmo, and noMelee.
 			// See ExampleGun.SetDefaults to see comments explaining those properties
-			Item.DefaultToRangedWeapon(ProjectileID.MeteorShot, AmmoID.Bullet, 14, 30f, true);
+			Item.DefaultToRangedWeapon(ProjectileID.MeteorShot, AmmoID.Bullet, 5, 3f, true);
 
 			// Item.SetWeaponValues can quickly set damage, knockBack, and crit
-			Item.SetWeaponValues(40, 2f);
-            Item.mana = 20;
+			Item.SetWeaponValues(12, 2f);
+			Item.mana = 4;
 
-            Item.width = 54; // Hitbox width of the item.
+			Item.width = 54; // Hitbox width of the item.
 			Item.height = 22; // Hitbox height of the item.
 			Item.rare = ItemRarityID.Green; // The color that the item's name will be in-game.
-			Item.UseSound = SoundID.Item72; // The sound that this item plays when used.
+			Item.UseSound = SoundID.Item89; // The sound that this item plays when used.
+            Item.shoot = ProjectileID.PurificationPowder; // For some reason, all the guns in the vanilla source have this.
+            Item.shootSpeed = 30f;
         }
 
 		// Please see Content/ExampleRecipes.cs for a detailed explanation of recipe creation.
@@ -39,7 +41,7 @@ namespace TerraArchive.NPCs.School.Gehenna.Problem_Solver_68.Player.Kayoko
 
 		// This method lets you adjust position of the gun in the player's hands. Play with these values until it looks good with your graphics.
 		public override Vector2? HoldoutOffset() {
-			return new Vector2(6f, 0f);
+			return new Vector2(-12f, 2f);
 		}
 	}
 }
