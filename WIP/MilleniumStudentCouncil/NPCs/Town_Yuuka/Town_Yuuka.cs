@@ -12,15 +12,13 @@ using Terraria.GameContent.Personalities;
 using System.Collections.Generic;
 using Terraria.ModLoader.IO;
 using TerraArchive.Dusts;
-using TerraArchive.Projectiles;
-using Mono.Cecil;
-using static Terraria.ModLoader.PlayerDrawLayer;
+using TerraArchive.WIP.MilleniumStudentCouncil.Items.Noa;
 
 
-namespace TerraArchive.NPCs.School.Millenium_Student_Council.NPC.Yuuka
+namespace TerraArchive.WIP.MilleniumStudentCouncil.NPCs.Town_Yuuka
 {
     [AutoloadHead]
-    internal class NPC_Yuuka : ModNPC
+    internal class Town_Yuuka : ModNPC
     {
         public const string ShopName = "Shop";
         public int NumberOfTimesTalkedTo = 0;
@@ -39,9 +37,9 @@ namespace TerraArchive.NPCs.School.Millenium_Student_Council.NPC.Yuuka
             NPCID.Sets.AttackTime[Type] = 90; // The amount of time it takes for the NPC's attack animation to be over once it starts.
             NPCID.Sets.AttackAverageChance[Type] = 30; // The denominator for the chance for a Town NPC to attack. Lower numbers make the Town NPC appear more aggressive.
             NPCID.Sets.HatOffsetY[Type] = 4; // For when a party is active, the party hat spawns at a Y offset.
-            NPCID.Sets.ShimmerTownTransform[NPC.type] = true; // This set says that the Town NPC has a Shimmered form. Otherwise, the Town NPC will become transparent when touching Shimmer like other enemies.
+            NPCID.Sets.ShimmerTownTransform[NPC.type] = false; // This set says that the Town NPC has a Shimmered form. Otherwise, the Town NPC will become transparent when touching Shimmer like other enemies.
 
-            NPCID.Sets.ShimmerTownTransform[Type] = true; // Allows for this NPC to have a different texture after touching the Shimmer liquid.
+            NPCID.Sets.ShimmerTownTransform[Type] = false; // Allows for this NPC to have a different texture after touching the Shimmer liquid.
 
 
             // Connects this NPC with a custom emote.
@@ -73,10 +71,10 @@ namespace TerraArchive.NPCs.School.Millenium_Student_Council.NPC.Yuuka
             ; // < Mind the semicolon!
 
             // This creates a "profile" for ExamplePerson, which allows for different textures during a party and/or while the NPC is shimmered.
-            NPCProfile = new Profiles.StackedNPCProfile(
-                new Profiles.DefaultNPCProfile(Texture, NPCHeadLoader.GetHeadSlot(HeadTexture), Texture + "_Party"),
-                new Profiles.DefaultNPCProfile(Texture + "_Shimmer", ShimmerHeadIndex, Texture + "_Shimmer_Party")
-            );
+            //NPCProfile = new Profiles.StackedNPCProfile(
+            //    new Profiles.DefaultNPCProfile(Texture, NPCHeadLoader.GetHeadSlot(HeadTexture), Texture + "_Party"),
+            //    new Profiles.DefaultNPCProfile(Texture + "_Shimmer", ShimmerHeadIndex, Texture + "_Shimmer_Party")
+            //);
         }
 
         public override void SetDefaults()
@@ -128,7 +126,7 @@ namespace TerraArchive.NPCs.School.Millenium_Student_Council.NPC.Yuuka
             return true;
         }
 
-        public override void HitEffect(NPC.HitInfo hit)
+        public override void HitEffect(Terraria.NPC.HitInfo hit)
         {
             int num = NPC.life > 0 ? 1 : 5;
 
@@ -206,7 +204,7 @@ namespace TerraArchive.NPCs.School.Millenium_Student_Council.NPC.Yuuka
             WeightedRandom<string> chat = new WeightedRandom<string>();
 
             
-            int partyGirl = NPC.FindFirstNPC(NPCID.PartyGirl);
+            int partyGirl = Terraria.NPC.FindFirstNPC(NPCID.PartyGirl);
             if (partyGirl >= 0 && Main.rand.NextBool(4))
             {
                 chat.Add(Language.GetTextValue("Sensei, it's not because we're partying today that you have to overspend!\r\nWha..? Y-Yes I'll take some cake...", Main.npc[partyGirl].GivenName));
@@ -261,8 +259,8 @@ namespace TerraArchive.NPCs.School.Millenium_Student_Council.NPC.Yuuka
 
         public override void DrawTownAttackGun(ref Texture2D item, ref Rectangle itemFrame, ref float scale, ref int horizontalHoldoutOffset)
         {
-            Main.instance.LoadItem(ModContent.ItemType<EyeOfHorus>());
-            item = TextureAssets.Item[ModContent.ItemType<EyeOfHorus>()].Value;
+            Main.instance.LoadItem(ModContent.ItemType<SecretarysVote>());
+            item = TextureAssets.Item[ModContent.ItemType<SecretarysVote>()].Value;
             itemFrame = new Rectangle(0,0,42,21);
             scale = 1f;
             horizontalHoldoutOffset = -7;

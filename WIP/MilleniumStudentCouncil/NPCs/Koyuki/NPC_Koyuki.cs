@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TerraArchive.NPCs.School.Millenium.Millenium_Student_Council.NPC.Koyuki
+namespace TerraArchive.WIP.MilleniumStudentCouncil.NPCs.Koyuki
 {
     internal class NPC_Koyuki
     {

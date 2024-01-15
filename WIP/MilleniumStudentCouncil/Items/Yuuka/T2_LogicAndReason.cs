@@ -4,7 +4,7 @@ using Terraria.ID;
 using Terraria;
 using Terraria.ModLoader;
 
-namespace TerraArchive.NPCs.School.Millenium.Millenium_Student_Council.NPC.Yuuka
+namespace TerraArchive.WIP.MilleniumStudentCouncil.Items.Yuuka
 {
     public class T2_LogicAndReason : ModItem
     {

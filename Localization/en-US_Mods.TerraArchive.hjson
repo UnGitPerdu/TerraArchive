@@ -53,6 +53,126 @@ Items: {
 		DisplayName: Reason
 		Tooltip: ""
 	}
+
+	T3_LogicAndReason: {
+		Tooltip: ""
+		DisplayName: T3_ Logic And Reason
+	}
+
+	T2_LogicAndReason: {
+		Tooltip: ""
+		DisplayName: T2_ Logic And Reason
+	}
+
+	T1_LogicAndReason: {
+		Tooltip: ""
+		DisplayName: T1_ Logic And Reason
+	}
+
+	Player_SenseiLegging: {
+		Tooltip: ""
+		DisplayName: Player_ Sensei Legging
+	}
+
+	Player_SenseiHead: {
+		Tooltip: ""
+		DisplayName: Player_ Sensei Head
+		SetBonus: Mods.TerraArchive.Items.Player_SenseiHead.SetBonus
+	}
+
+	Player_SenseiBody: {
+		Tooltip: ""
+		DisplayName: Player_ Sensei Body
+	}
+
+	Player_MutsugiLegging: {
+		Tooltip: ""
+		DisplayName: Player_ Mutsugi Legging
+	}
+
+	Player_MutsugiHead: {
+		Tooltip: ""
+		DisplayName: Player_ Mutsugi Head
+		SetBonus: Mods.TerraArchive.Items.Player_MutsugiHead.SetBonus
+	}
+
+	Player_MutsugiBody: {
+		Tooltip: ""
+		DisplayName: Player_ Mutsugi Body
+	}
+
+	Mutsugi_Gun: {
+		Tooltip: ""
+		DisplayName: Mutsugi_ Gun
+	}
+
+	Player_KayokoLegging: {
+		Tooltip: ""
+		DisplayName: Player_ Kayoko Legging
+	}
+
+	Player_KayokoHead: {
+		Tooltip: ""
+		DisplayName: Player_ Kayoko Head
+		SetBonus: Mods.TerraArchive.Items.Player_KayokoHead.SetBonus
+	}
+
+	Player_KayokoBody: {
+		Tooltip: ""
+		DisplayName: Player_ Kayoko Body
+	}
+
+	Kayoko_Gun: {
+		Tooltip: ""
+		DisplayName: Kayoko_ Gun
+	}
+
+	Player_HarukaLegging: {
+		Tooltip: ""
+		DisplayName: Player_ Haruka Legging
+	}
+
+	Player_HarukaHead: {
+		Tooltip: ""
+		DisplayName: Player_ Haruka Head
+		SetBonus: Mods.TerraArchive.Items.Player_HarukaHead.SetBonus
+	}
+
+	Player_HarukaBody: {
+		Tooltip: ""
+		DisplayName: Player_ Haruka Body
+	}
+
+	Haruka_Gun: {
+		Tooltip: ""
+		DisplayName: Haruka_ Gun
+	}
+
+	Player_AruLegging: {
+		Tooltip: ""
+		DisplayName: Player_ Aru Legging
+	}
+
+	Player_AruHead: {
+		Tooltip: ""
+		DisplayName: Player_ Aru Head
+		SetBonus: Mods.TerraArchive.Items.Player_AruHead.SetBonus
+	}
+
+	Player_AruBody: {
+		Tooltip: ""
+		DisplayName: Player_ Aru Body
+	}
+
+	Aru_Gun: {
+		Tooltip: ""
+		DisplayName: Aru_ Gun
+	}
+
+	T1_PlainBaseballCap: {
+		Tooltip: ""
+		DisplayName: T1_ Plain Baseball Cap
+	}
 }
 
 NPCs: {
@@ -101,6 +221,30 @@ NPCs: {
 	}
 
 	SRSukeban.DisplayName: S R Sukeban
+
+	Town_Yuuka: {
+		TownNPCMood: {
+			Princess_LovesNPC: I like {NPCName}.
+			LikeNPC_Princess: I like {NPCName}.
+			HateNPC: I hate {NPCName}.
+			DislikeNPC: I dislike {NPCName}.
+			LikeNPC: I like {NPCName}.
+			LoveNPC: I love {NPCName}.
+			DislikeBiome: I dislike {BiomeName}.
+			LikeBiome: I like {BiomeName}.
+			LoveBiome: I love {BiomeName}.
+			HateCrowded: I hate how crowded I am.
+			DislikeCrowded: I dislike how crowded I am.
+			LoveSpace: I love having so much space.
+			FarFromHome: I am too far from home.
+			NoHome: I hate not having a home.
+			Content: I am content.
+		}
+
+		DisplayName: Town_ Yuuka
+	}
+
+	NPC_SRSukeban.DisplayName: N P C_ S R Sukeban
 }
 
 Projectiles.SparklingBall.DisplayName: Sparkling Ball

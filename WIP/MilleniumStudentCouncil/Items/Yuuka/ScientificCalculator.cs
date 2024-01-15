@@ -8,7 +8,7 @@ using Terraria;
 using Terraria.Localization;
 using Terraria.ModLoader;
 
-namespace TerraArchive.NPCs.School.Millenium.Millenium_Student_Council.NPC.Yuuka
+namespace TerraArchive.WIP.MilleniumStudentCouncil.Items.Yuuka
 {
     internal class ScientificCalculator : ModItem 
     {
