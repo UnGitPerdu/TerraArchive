@@ -1,0 +1,26 @@
+Fancy Wallet (Aru)
+ +crit rate 24%
+ +crit damage 14%
+ +ranged damage 5%
+It is a luxury item made of high quality materials, but the color has faded and there are scratches here and there due to long use. It was given to Aru and is an irreplaceable treasure.
+
+Onikata's kit (Kayoko)
+ +darkness immune
+ +confuse immune
+ +damage 15%
+ +magic damage 5%
+A black bag with white crude seams hanging on the right shoulder which also has a gun holster attached to the strap.
+
+Haruka's Personal Bag (Haruka)
+ +defense 4
+ +reduces incoming damage by 18%
+ +melee damage 5%
+ +Health +60
+A sturdy school bag with a creepy rabbit doll keychain. It is more comfortable than it's clunky appearance may look.
+
+Suspicious Duffle Bag (Mutsugi)
+ +crit rate 10%
+ +damage 10%
+ +ranged damage 5%
+ +not consume ammo 33%
+A duffle bag that Mutsugi used to store her explosives, it is suspiciously spacious enough to carry a person inside.
