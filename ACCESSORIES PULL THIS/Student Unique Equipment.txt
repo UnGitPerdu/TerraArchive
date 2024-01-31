@@ -11,9 +11,9 @@ Onikata's kit (Kayoko)
  +magic damage 5%
 A black bag with white crude seams hanging on the right shoulder which also has a gun holster attached to the strap.
 
-Haruka's Personal Bag (Haruka)
+Haruka's Handy Bag (Haruka)
  +defense 4
- +reduces incoming damage by 18%
+ +Knockback immune
  +melee damage 5%
  +Health +60
 A sturdy school bag with a creepy rabbit doll keychain. It is more comfortable than it's clunky appearance may look.
