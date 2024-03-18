@@ -22,5 +22,6 @@ Suspicious Duffle Bag (Mutsugi)
  +crit rate 10%
  +damage 10%
  +ranged damage 5%
+ +explosive damage 10%
  +not consume ammo 33%
 A duffle bag that Mutsugi used to store her explosives, it is suspiciously spacious enough to carry a person inside.
