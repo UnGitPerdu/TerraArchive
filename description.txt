@@ -2,20 +2,27 @@
 VERSION 0.1
 
 
-Art : Einzeilhandery
-Coding : UnJoueurPerdu
+*WORK IN PROGRESS**
+!!! We're currently asking for volunteers to help with the mod, the development progress has been slow and at this state it is not finishing anytime soon. Dm me if you are interested in helping, i am willing to make the mod open source if needed.
 
-This is our first mod!
-Despite it's popularity, there are no Blue Archive mod yet, so we are making one ouselves.
-It is advised to not use vanity with other mods, as student's sprites are shorter and more skinny compare to vanilla
+The current steam version of the mod is a place holder version, the mod is techniqually not released
+This mod might not get update and could be deleted when we publish the first version of official Blue Archive x Terraria mod, the mod development is sloppy due to most of us are working full time, but it is being worked on, stay tune
 
-Please wait for more update from the mod.
+Blue Archive x Terraria (code name: TerraArchive)
+The mod is not actually released yet on steam, it's a sprite and upload test, the few armor and weapons are locked with no recipe, you can get them through cheat menu but in current state they are nothing special.
+!!! It is advised to 🚫 NOT🚫  use vanity with other mods, as student's sprites are shorter and more skinny compare to vanilla !!!
 
-!!!!!!!How to start mod:
- Item: Student_Mail (Eye of Cthulu drop) = will summon the "Delinquent Trio"
-after defeating will spawn Arona and Sora as town NPCs.
-
-Current content List :
+The NPCs and Bosses are currently locked, you can not acquire them in this version yet
+#First version goal before we can fully release the mod:
+Blue Archive related miscs items, pyroxenes
+Weapon parts/ upgrades
+Raid event (Red Winter assault)
+Boss battle (HandyMan 68)
+Generic overworld enemies
+generic weapon/armor set for vanilla progression
+ 
+How to start mod:
+Item: Shittim Chest (crafting) will summon the "Delinquent Trio"
 
  ***NPCs:
 Currently have no plan to make shimmer/party version of the students
