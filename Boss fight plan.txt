@@ -1,15 +1,16 @@
-!!!We'll decide stats once we got them to work, beforehand just make them do 1 damage, we'll test attack pattern and synergy, what progression should they be
+!!!We'll decide stats once we got them to work, beforehand just make them do 1 damage, we'll test attack pattern and synergy, what progression in terraria would the encounter take place
 
 Ver 0.1
 
 ##### Delinquent trio #####
 
 Spawn item name: Shittim chest (summon)
-Obtain: 2 gels + 5 glass + 2 iron bars - at crafting table
- -Summon a trio of angry delinquent, they come to bully you
- - Delinquent SMG: dead eye AI
- - Delinquent SR: skeleton sniper AI
- - Delinquent MG: pirate captain AI
+Obtain: 10 red wires + 2 gels + 5 glass + 2 iron bars - at crafting table
+ 
+Summon a trio of angry delinquent, they come to bully you
+Delinquent SMG
+Delinquent SR
+Delinquent MG
 
 Drop: 
 + Future lab (crafting table)
@@ -24,10 +25,11 @@ Spawn item name: Suspicious_Phone
 Obtain: from Yuuka (200 pyroxene)
  -A club notable for the conduct of "illegal businesses" as well as taking "fixer contracts".
 
- - Aru:(20 seconds cd) Spawn a cross hair entity at player that stay and explode after 2 seconds, does massive damage
- - Haruka: No knockback, slow
- - Kayoko:(25 seconds cd) Cast Darkness and Confused to player for 4 seconds
- - Mutsigi:(30 seconds cd) Throw dynamites that split into smaller ones, spawn 1 land mine every 20 seconds, explode if player step on or after 15 seconds
+ 
+Aru:(20 seconds cd) Spawn a cross hair entity at player that stay and explode after 2 seconds, does massive damage
+Haruka: No knockback, slow
+Kayoko:(25 seconds cd) Cast Darkness and Confused to player for 4 seconds
+Mutsigi:(30 seconds cd) Throw dynamites that split into smaller ones, spawn 1 land mine every 20 seconds, explode if player step on or after 15 seconds
 
 Drop: 
 + Gehenna_Sigil (Used to craft one Gehenna weapons)
